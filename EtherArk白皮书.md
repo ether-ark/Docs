@@ -2,11 +2,11 @@
 
 
 
-​                                                   ![1593389757(1)](C:\Users\Mino\Desktop\1593389757(1).png)
+​                                                   ![logo](logo.png)
 
 #                  EtherArk 白皮书
 
-[TOC]
+
 
 
 
