@@ -2,7 +2,7 @@
 
 
 
-​                                                   ![logo](logo.png)
+​                                                   ![logo](/logo.png)
 
 #                  EtherArk 白皮书
 
